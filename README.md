@@ -54,7 +54,7 @@ Para executar o código é necessário digitar a linha de comando:
   
   Para mais informações consultar o arquivo <i>Manual_do_usuario_cg.pdf</i>.
   
-  Para ver o algoritmo funcionando, executar o vídeo . 
+  Para ver o código funcionando, executar o vídeo <i>Codigo_funcionando.MOV</i>. 
   
   
   
