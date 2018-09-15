@@ -50,7 +50,7 @@ Para executar o código é necessário digitar a linha de comando:
   Observação: Nos comentários abaixo das duas classes existe uma terceira classe (<i>Aplication3</i>) que representa uma tentativa de implementação do algoritmo de recorte de janela: Cohen-Sutherland.
   
 ## Maneira de usar
-  Quando o programma se inicializa, duas janelas  se abrem com diversas caixas de textos, botões, e um espaço em branco. As informações do ponto final e inicial das retas, do ângulo, força, raio e translação que são necessárias ao funcionamento do algoritmo são preenchidas pelo usuário por meio dessas entradas de texto. Existe em cada página, o botão dos algoritmos de sua respectiva classe (<i>Aplication1</i> ou <i>Aplication2</i>). Após a execução de cada algoritmo, o resultado é desenhado no espaço em branco. 
+  Quando o programma se inicializa, duas janelas  se abrem com diversas caixas de textos, botões, e um espaço em branco. As informações do ponto final e inicial das retas, do ângulo, força, raio e translação que são necessárias ao funcionamento do algoritmo são preenchidas pelo usuário por meio dessas entradas de texto. Existe em cada página, o botão dos algoritmos de sua respectiva classe (<i>Aplication1</i> ou <i>Aplication2</i>). Após a execução de cada algoritmo, o resultado é desenhado no espaço em branco. Nos algoritmos da segunda tela "Transformações Geométricas 2D", é exibido no espaço em branco a reta original em preto e a modificada pelo algoritmo escolhido em outra cor.
   
   Para mais informações consultar o arquivo <i>Manual_do_usuario_cg.pdf</i>.
   
